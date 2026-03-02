@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Suraj Portfolio
 
-# Run and deploy your AI Studio app
+Modern full-stack developer portfolio built with React, TypeScript, Vite, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Express
+- SQLite
 
-View your app in AI Studio: https://ai.studio/apps/efbb32af-2128-49f4-825e-12c65b48efbd
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Features
+- Responsive Design
+- Modern UI
+- Performance Optimized
